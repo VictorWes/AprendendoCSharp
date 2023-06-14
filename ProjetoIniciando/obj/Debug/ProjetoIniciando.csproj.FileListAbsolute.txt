@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\bin\Debug\ProjetoIniciando.exe.config
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\bin\Debug\ProjetoIniciando.exe
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\bin\Debug\ProjetoIniciando.pdb
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\obj\Debug\ProjetoIniciando.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\obj\Debug\ProjetoIniciando.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\obj\Debug\ProjetoIniciando.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\obj\Debug\ProjetoIniciando.exe
+C:\Users\pc\Desktop\Desenvolvendo CS\ProjetoIniciando\ProjetoIniciando\obj\Debug\ProjetoIniciando.pdb
